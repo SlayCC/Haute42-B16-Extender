@@ -43,6 +43,6 @@ Distributed under the CC0-1.0 License. My work is free for anyone to do what the
 
 For any requests or suggestions, SlayCC on Discord or u/SlayCC on reddit.
 
-Project Link: [https://github.com/SlayCC/Fingertip-Mouse-Mods](https://github.com/SlayCC/Fingertip-Mouse-Mods)
+Project Link: [https://github.com/SlayCC/Fingertip-Mouse-Mods](https://github.com/SlayCC/Haute42-B16-Extender)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
